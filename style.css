@@ -10,3 +10,7 @@ h1 {
 	border: 1px solid #000;
 	color: purple;
 }
+
+#marvel {
+	filter: blur(.5);
+}
